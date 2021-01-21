@@ -154,5 +154,6 @@
         <hdrhistogram.version>2.1.11</hdrhistogram.version>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin</sonar.password>
+        <sonar.host.url>http://3.238.237.156:9000/</sonar.host.url>
     </properties>
 </project>
