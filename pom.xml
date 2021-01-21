@@ -152,5 +152,7 @@
         <samples.version>0.0.2-SNAPSHOT</samples.version>
         <jcommander.version>1.72</jcommander.version>
         <hdrhistogram.version>2.1.11</hdrhistogram.version>
+        <sonar.login>admin</sonar.login>
+        <sonar.password>admin</sonar.password>
     </properties>
 </project>
